@@ -1,5 +1,5 @@
 # Compare Sorting Algorithms
-Comparing the Bubble Sort and the Insertion Sort in terms of efficiency<br>
+Comparing the Bubble Sort and the Insertion Sort in terms of efficiency as part of Advanced Programming Module National College of Ireland.<br>
 ![Intro Pic](https://www.educative.io/v2api/editorpage/5993162860396544/image/6387039647825920)
 
 ### Table of Contents
